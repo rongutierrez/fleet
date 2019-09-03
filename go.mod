@@ -4,7 +4,6 @@ go 1.12
 
 require (
 	cloud.google.com/go v0.37.4
-	git.apache.org/thrift.git v0.0.0-20170711211005-0dd823580c78 // indirect
 	github.com/VividCortex/gohistogram v1.0.0 // indirect
 	github.com/VividCortex/mysqlerr v0.0.0-20170204212430-6c6b55f8796f
 	github.com/WatchBeam/clock v0.0.0-20170901150240-b08e6b4da7ea
